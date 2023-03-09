@@ -1,0 +1,8 @@
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\bin\Debug\C_.NET.exe.config
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\bin\Debug\C_.NET.exe
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\bin\Debug\C_.NET.pdb
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\obj\Debug\C# .NET.csproj.AssemblyReference.cache
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\obj\Debug\C# .NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\obj\Debug\C# .NET.csproj.CoreCompileInputs.cache
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\obj\Debug\C_.NET.exe
+C:\Users\sevri\Desktop\Project\js\C# .NET\C# .NET\obj\Debug\C_.NET.pdb
